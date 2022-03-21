@@ -5,9 +5,9 @@
 <br>
 ![OSProjects](images/introduction/OSPprojects.png)
 
-# *[Apache Linkis(Incubating)](https://github.com/WeBankFinTech/Linkis)* 
+# *[Apache Linkis(Incubating)](https://github.com/apache/incubator-linkis)* 
 
-**[Click me](https://github.com/WeBankFinTech/Linkis) to Github repo**
+**[Click me](https://github.com/apache/incubator-linkis) to Github repo**
 
 [Linkis](https://github.com/WeBankFinTech/Linkis) builds a computation middleware layer to decouple the upper applications and the underlying data engines, provides standardized interfaces (REST, JDBC, WebSocket etc.) to easily connect to various underlying engines (Spark, Presto, Flink, etc.), while enables cross engine context sharing, unified job& engine governance and orchestration.
 
